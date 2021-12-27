@@ -14,6 +14,7 @@ menu:
   超可爱: /link/ || fas fa-link
   关于我: /about/ || fas fa-heart
   留言板: /mage/ || fas fa-comment-dots
+  小工具: /Download/ || fas fa-tools
   小秘密||fas fa-list:
     - 音乐盒 || /music/ || fas fa-music
     # - 时光机 || /movies/ || fas fa-video
