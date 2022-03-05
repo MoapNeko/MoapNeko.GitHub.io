@@ -7,16 +7,17 @@
 #   name || link || icon
 
 menu:
-  首页: / || fas fa-home
+  墨安平: / || fas fa-home
   档案馆: /archives/ || fas fa-archive
   世界树: /categories/ || fas fa-folder-open
   标签林: /tags/ || fas fa-tags
   超可爱: /link/ || fas fa-link
   关于我: /about/ || fas fa-heart
   留言板: /mage/ || fas fa-comment-dots
-  小工具: /Download/ || fas fa-tools
   小秘密||fas fa-list:
-    - 音乐盒 || /music/ || fas fa-music
+    - 八音盒 || /八音盒/ || fas fa-music
+    - 小工具 || /download/ || fas fa-tools
+    - 云客居 || /云客居/ || fas fa-game
     # - 时光机 || /movies/ || fas fa-video
     # - 平安轩 || /books/ || fas fa-book
 
